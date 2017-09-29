@@ -1,0 +1,108 @@
+.workingMom{
+    height:280px;
+}
+.workingMomArticles{
+    width:450px;
+    height:280px;
+    clear:both;
+    padding-bottom:20px;
+}
+.box a{
+    display:block;
+    padding-bottom: 10px;
+}
+
+.story{
+    margin-left:auto;
+    margin-right: auto;
+    
+}
+.box{
+    display: inline;
+    float: left;
+    padding: 10px 0;
+}
+.story a{
+    width: 450px;
+}
+.small{
+    width: 1300px;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 0.7em;
+
+}
+.small .box{
+    padding: 10px 20px;;
+}
+.small img{
+    width: 280px;
+    height: 180px;
+}
+
+.tenthings{
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 1.1em;
+    display: flex;
+    color:black;
+    width: 1000px;
+}
+.sf{
+    float:right;
+    height:280px;
+}
+.commentTenThings{
+    width: 400px;
+    float: right;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.article{
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 1.1em;
+    width: 800px;
+}
+.nav>li>a {
+    
+    font-size: 1.2em;
+}
+.link{
+    font-size: 1.4em;
+    color: #3E3939;
+
+}
+.article ul li{
+    font-size: 1.2em;
+    color: #3E3939;
+    font-weight: bold;
+}
+.article h1{
+    color: #3E3939;
+    font-size: 2.8em;
+}
+
+.WorkGroup{
+    width: 800px;
+    height: 350px;
+    border-top-left-radius:10%;
+    border-top-right-radius:10%;
+    
+    position: relative;
+    
+}
+
+.sand-background{
+    background-color: #FDD491;
+    padding: 50px;
+    width: 800px;
+    border-bottom-left-radius:30%;
+    border-bottom-right-radius:30%;
+    font-family: Argos-Light, serif;
+    text-align: center;
+   
+}
+
+
+
